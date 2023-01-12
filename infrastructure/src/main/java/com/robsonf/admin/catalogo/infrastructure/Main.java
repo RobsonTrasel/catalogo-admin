@@ -1,4 +1,4 @@
-package com.robsonf.admin.catalogo;
+package com.robsonf.admin.catalogo.infrastructure;
 
 public class Main {
     public static void main(String[] args) {
